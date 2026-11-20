@@ -1,0 +1,5 @@
+fucion de ramas en git
+
+estructura git add .
+git commit -m "nombre de commit"
+git push -u 
